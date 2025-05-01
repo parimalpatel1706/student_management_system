@@ -29,13 +29,13 @@ A simple, interactive, and beautifully styled Student Information Management Sys
 ## 📁 Project Structure
 
 student-management-system/
-├── index.html             # Main frontend page to display and manage students
-├── styles.css             # Stylesheet for the UI
-├── script.js              # JavaScript file to handle AJAX requests
-├── config.php             # Database connection configuration
-├── add_student.php        # Backend script to add a student to the database
-├── fetch_students.php     # Backend script to fetch and return student records
-└── delete_student.php     # Backend script to delete a student record
+- index.html            
+- styles.css             
+- script.js              
+- config.php             
+- add_student.php        
+- fetch_students.php     
+- delete_student.php     
 
 
 
