@@ -125,7 +125,7 @@ header('Content-Type: application/json; charset=utf-8');
    - **MAMP:** Open MAMP → Click **Start Servers**
 
 3. **Open** your browser and go to:  
-    http://localhost/student-management-system/index.html
+    http://localhost/your-project-folder-name/index.html
 
 4. The application should load. **Test** by adding a student record to ensure everything is working correctly.  
 
