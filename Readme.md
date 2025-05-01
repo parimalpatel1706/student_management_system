@@ -29,8 +29,8 @@ A simple, interactive, and beautifully styled Student Information Management Sys
 ## 📁 Project Structure
 
 student-management-system/
-- index.html            
-- styles.css             
+-> index.html            
+-> styles.css             
 - script.js              
 - config.php             
 - add_student.php        
