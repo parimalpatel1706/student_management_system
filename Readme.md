@@ -28,16 +28,9 @@ A simple, interactive, and beautifully styled Student Information Management Sys
 
 ## 📁 Project Structure
 
-/your-project-folder
-│
-├── index.html
-├── styles.css
-├── script.js
-│
-├── config.php
-├── add_student.php
-├── fetch_students.php
-└── delete_student.php
+student-management-system/ ├── index.html ├── styles.css ├── script.js ├── config.php ├── add_student.php ├── fetch_students.php └── delete_student.php
+
+
 
 ---
 
