@@ -56,8 +56,8 @@ student-management-system/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/student-management-system.git
-cd student-management-system
+git clone https://github.com/parimalpatel1706/student_management_system.git
+cd student_management_system
 ```
 
 ### 2️⃣ Create the MySQL Database & Table
